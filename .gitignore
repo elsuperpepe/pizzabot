@@ -1,0 +1,14 @@
+node_modules/
+.env
+.wwebjs_auth/
+.wwebjs_cache/
+
+pedidos/
+*.xlsx
+*backup*.json
+*.jsonl
+
+QR.jpeg
+credentials.json
+.env
+.env
